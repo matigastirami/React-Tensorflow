@@ -35,7 +35,7 @@ class ImagePredictionComponent extends Component {
         this.setState({ open: true });
     };
     
-      handleClose = () => {
+    handleClose = () => {
         this.setState({ open: false });
     };
 
